@@ -1,6 +1,6 @@
 # Salary-Prediction
 
-A machine learning model that can predict the salary by inputting the years of experience.
+A machine learning model using **linear regression** that can predict the salary by inputting the years of experience.
 
 It is currently deployed using **Heroku**.
 
